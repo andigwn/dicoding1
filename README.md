@@ -1,6 +1,6 @@
 # dicoding1
 
-A new Flutter project.
+belajar membuat aplikasi menggunakan flutter lewat yotube dicoding indonesia dari awal 
 
 ## Getting Started
 
